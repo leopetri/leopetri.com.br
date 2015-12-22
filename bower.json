@@ -1,0 +1,22 @@
+{
+  "name": "leopetri.com.br",
+  "description": "My website to try new tecnologies.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "leopetri"
+  ],
+  "authors": [
+    "leopetri - Leonardo Petri Silva"
+  ],
+  "license": "MIT",
+  "homepage": "leopetri.com.br",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
