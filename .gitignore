@@ -1,0 +1,20 @@
+CLion, Android Studio and Webstorm
+*.iml
+.idea/
+/out/
+.idea_modules/
+# JIRA plugin
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+.DS_Store
+.idea
+teste/
+test/
